@@ -14,3 +14,4 @@ ZCZC W01 80 L02 ZOOM sync Monday 1 March 2021
 ZCZC W01 60 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 180 L23 Discord: discussing assignment 1-6 with friends
 ZCZC W01 60 L17 Assignment #7 
+ZCZC W03 120 L10 Doing Week 2 Assignment 1-7
