@@ -1,6 +1,11 @@
 # os211
+
+**Haidar Labib Bangsawijaya**
 Operating Systems 2021-1 (Semester Genap 2020/2021)
 
-[W01: Top 10 List](./W01/)
+* [Github Repository](https://github.com/monta1212/os211/) 
+* [Log](https://monta1212.github.io/os211/TXT/mylog.txt)
 
-[W02: Top 10 List](./W02/)
+## Weekly Top Ten List
+1. [Week 01](./W01/)
+2. [Week 02](./W02/)
