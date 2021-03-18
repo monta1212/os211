@@ -11,3 +11,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 ## Weekly Top Ten List
 1. [Week 01](./W01/)
 2. [Week 02](./W02/)
+3. [Week 03](./W03/)
