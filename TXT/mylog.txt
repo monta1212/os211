@@ -6,7 +6,7 @@ ZCZC W00 10 L11 Assignment #1
 ZCZC W00 5 L12 Assignment #2
 ZCZC W00 5 L13 Assignment #3
 ZCZC W00 5 L14 Assignment #4
-ZCZC W00 80 LO2 ZOOM sync Monday 22 February 2021
+ZCZC W00 80 L02 ZOOM sync Monday 22 February 2021
 ZCZC W00 10 L22 YouTube: study, etc.
 ZCZC W00 5 L01 SCELE related : Doing QUIZ 03
 ZCZC W00 20 L01 SCELE related : Doing QUIZ 04
@@ -17,5 +17,7 @@ ZCZC W01 60 L17 Assignment #7
 ZCZC W02 120 L10 Doing Week 2 Assignment 1-7
 ZCZC W02 10 L01 SCELE related checking scele for any announcement
 ZCZC W02 60 L04 GitHub Pages: adding 10 weekly website.
-ZCZC W03 80 LO2 ZOOM sync Wednesday 17 March 2021
+ZCZC W03 80 L02 ZOOM sync Wednesday 17 March 2021
 ZCZC W03 120 L23 Discord: discussing assignment 2-9 with friends
+ZCZC W03 60 L04 Github Pages: adding 10 weekly website
+ZCZC W03 10 L01 SCELE related checking scele for any announcement
