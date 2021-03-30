@@ -21,3 +21,6 @@ ZCZC W03 80 L02 ZOOM sync Wednesday 17 March 2021
 ZCZC W03 120 L23 Discord: discussing assignment 2-9 with friends
 ZCZC W03 60 L04 Github Pages: adding 10 weekly website
 ZCZC W03 10 L01 SCELE related checking scele for any announcement
+ZCZC W04 10 L01 SCELE related checking scele for any announcement
+ZCZC W04 30 L01 SCELE related doing the quiz in scele 
+ZCZC W04 120 L10 Assignment doing all week 4 assignment
