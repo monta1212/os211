@@ -24,3 +24,8 @@ ZCZC W03 10 L01 SCELE related checking scele for any announcement
 ZCZC W04 10 L01 SCELE related checking scele for any announcement
 ZCZC W04 30 L01 SCELE related doing the quiz in scele 
 ZCZC W04 120 L10 Assignment doing all week 4 assignment
+ZCZC W05 80 L02 ZOOM sync Wednesday 31 March 2021
+ZCZC W05 30 L10 Assignment Doing Quiz
+ZCZC W05 10 L01 SCELE related checking scele for any announcement
+ZCZC W05 120 L10 Assignment doing all week 5 assignment
+
